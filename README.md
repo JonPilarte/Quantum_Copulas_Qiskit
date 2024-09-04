@@ -35,17 +35,3 @@ The left plot shows the original uniform data of stock returns, and the right pl
 ![Quantum Circuit](Qiskit_circuit.png)
 
 This quantum circuit is used to implement the copula-based risk aggregation model using trapped-ion quantum computers.
-
-## Features
-
-- Classical and quantum implementations of copula-based risk aggregation
-- Comparative analysis of classical and quantum approaches
-- Leverages the power of Qiskit to run simulations on quantum circuits
-- Uses trapped-ion quantum computing techniques
-
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/JonPilarte/Quantum_Copulas_Qiskit.git
-   cd Quantum_Copulas_Qiskit
