@@ -1,6 +1,6 @@
 # Quantum Copulas Using Qiskit
 
-This repository contains an implementation of **copula-based risk aggregation using quantum computing** techniques. The project explores the application of quantum copulas for risk management and financial modeling, leveraging trapped-ion quantum computers with the Qiskit framework.
+This repository provides an implementation of **copula-based risk aggregation** using **Qiskit** and quantum computing, specifically tailored for **Quantum for Finance** applications. The project demonstrates how **Quantum Machine Learning** can model dependencies between financial assets, enhancing risk management strategies by leveraging trapped-ion quantum computers.
 
 ## Overview
 
