@@ -27,12 +27,12 @@ The original paper explores the use of quantum copulas to aggregate risks using 
 ## Visualizations
 
 ### Original vs Synthetic Data (Copula)
-![Original Uniform Data vs Synthetic Data (Copula)](.Copulas.png)
+![Original Uniform Data vs Synthetic Data (Copula)](Copulas.png)
 
 The left plot shows the original uniform data of stock returns, and the right plot shows synthetic data generated using a copula model.
 
 ### Quantum Circuit for Copula Model
-![Quantum Circuit](.Qiskit_circuit.png)
+![Quantum Circuit](Qiskit_circuit.png)
 
 This quantum circuit is used to implement the copula-based risk aggregation model using trapped-ion quantum computers.
 
